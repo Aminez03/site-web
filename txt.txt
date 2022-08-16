@@ -1,0 +1,20 @@
+<div class="lo">
+
+        <img  src="lo.PNG" alt="logo">
+       
+        </div>
+        <h2> Making the healthcare experience more human</h2>
+        <div class="pa"> 
+        <p class="pa1">We want patients to find the perfect doctor and book an appointment in the most easy way. The patient journey should be enjoyable,
+             and that's why we are always next to them: to help them find the best possible care. Anytime, anywhere.</p>
+        <p calss="pa2">We also help doctors to better manage their practice and build their online reputation. With our integrated end-to-end solution, 
+            doctors are able not only to improve their online presence, but also to devote their time to what really matters: their patients.</p>
+        </div>
+        <div class="c1">
+           <i class="fa-solid fa-user-group"></i>
+           <h3>For patients</h3>
+           <h4>Find a doctor, book a visit and solve any health-related doubt</h4>
+
+        </div>
+        
+
